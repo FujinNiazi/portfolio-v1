@@ -1,8 +1,8 @@
 {
-  "homepage": "https://FujinNiazi.github.io/portfolio",
   "name": "portfoli-react",
   "version": "0.1.0",
-  "private": true,
+  "homepage": ".",
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@fortawesome/free-brands-svg-icons": "^6.1.2",
