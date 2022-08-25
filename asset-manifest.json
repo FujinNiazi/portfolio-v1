@@ -1,20 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.05ca20e9.css",
-    "main.js": "/portfolio/static/js/main.cb09db50.js",
+    "main.css": "/portfolio/static/css/main.d555bbda.css",
+    "main.js": "/portfolio/static/js/main.c2383874.js",
     "static/js/787.1cc6a694.chunk.js": "/portfolio/static/js/787.1cc6a694.chunk.js",
+    "static/media/asan.png": "/portfolio/static/media/asan.32f0cdf3888b04aa6d57.png",
+    "static/media/nust.png": "/portfolio/static/media/nust.5a2e18c89c36b5d7cbfa.png",
+    "static/media/kaist.png": "/portfolio/static/media/kaist.33b51a5d1959a9c88d36.png",
+    "static/media/Portfolio.pdf": "/portfolio/static/media/Portfolio.97659f2ef522e6f449aa.pdf",
     "static/media/logo-u.png": "/portfolio/static/media/logo-u.be710d4592fc629fec5c.png",
     "static/media/helvetica-neu.ttf": "/portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "static/media/logo-sub.png": "/portfolio/static/media/logo-sub.2b88b02366115a78d2f1.png",
+    "static/media/3dprinting.png": "/portfolio/static/media/3dprinting.f5a3f636e27b384baf76.png",
     "static/media/LaBelleAurore.woff2": "/portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/solidworks.png": "/portfolio/static/media/solidworks.24a9f01e2d5935a11a90.png",
+    "static/media/fusion360.png": "/portfolio/static/media/fusion360.344fc72b342a45ced747.png",
     "static/media/CoolveticaRg-Regular.woff2": "/portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/portfolio/index.html",
-    "main.05ca20e9.css.map": "/portfolio/static/css/main.05ca20e9.css.map",
-    "main.cb09db50.js.map": "/portfolio/static/js/main.cb09db50.js.map",
+    "main.d555bbda.css.map": "/portfolio/static/css/main.d555bbda.css.map",
+    "main.c2383874.js.map": "/portfolio/static/js/main.c2383874.js.map",
     "787.1cc6a694.chunk.js.map": "/portfolio/static/js/787.1cc6a694.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.05ca20e9.css",
-    "static/js/main.cb09db50.js"
+    "static/css/main.d555bbda.css",
+    "static/js/main.c2383874.js"
   ]
 }
