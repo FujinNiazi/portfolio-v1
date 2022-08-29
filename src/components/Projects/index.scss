@@ -200,6 +200,7 @@
   float: left;
   animation: fadeIn 1s 2s backwards;
   white-space: nowrap;
+  z-index: 0;
 
   &:hover {
       background: #ffd700;
@@ -211,7 +212,7 @@
 .space4 {
   font-size: 50px;
   color: #022c43;
-    position: absolute;
+    position: relative;
     padding-top: 60px;
   
 }

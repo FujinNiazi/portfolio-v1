@@ -25,7 +25,10 @@
   
             width: 1200px;
             border-radius: 10px;
-            animation: backInUp 1s 2s both;
+            max-width: 100%;
+            height: auto;
+            z-index: 99;
+            animation: backInUp 1s 1s both;
           }
 }
 
@@ -76,7 +79,9 @@
   .space {
       font-size: 50px;
       color: #022c43;
-        position: absolute;
-        padding-top: 1000px;
+        z-index: 0;
+        max-width: 200px;
+        max-height: 300px;
+
       
   }

@@ -45,8 +45,8 @@ const Experience = () => {
             <VerticalTimeline lineColor="rgb(255, 215, 0)">
   <VerticalTimelineElement
     className="vertical-timeline-element--work"
-    contentStyle={{ background: '#fff100', color: '#333', }}
-    contentArrowStyle={{ borderRight: '10px solid  #fff100' }}
+    contentStyle={{ background: '	hsl(57, 100%, 48%)', color: '#333', }}
+    contentArrowStyle={{ borderRight: '10px solid  hsl(57, 100%, 48%)' }}
     dateClassName = "date"
     date=" January 2022 - present"
     icon={<WorkIcon />}
@@ -131,12 +131,12 @@ const Experience = () => {
 </VerticalTimeline>
         </div>
         <div>
-        <h2 className="space2">
+        <h2 className="space">
             </h2>
         </div>
         <div className="scroller"><Link to="/projects" className='flat-exp'>CHECKOUT MY PROJECTS</Link></div>
         <div>
-        <h2 className="space2">
+        <h2 className="space3">
             </h2>
         </div>
         </div>

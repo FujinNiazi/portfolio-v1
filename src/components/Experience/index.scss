@@ -4,7 +4,6 @@
     width: calc(100% - 150px);
     position: initial;
     height: 100%;
-    overflow: auto;
 
     .page-title {
         font-size: 80px;
@@ -137,6 +136,6 @@ c {
 
 .space3 {
    text-align: center;
-   min-height: 30px;
+   min-height: 50px;
     color: #ffd700;
 }

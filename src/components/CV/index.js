@@ -35,10 +35,11 @@ const CV = () => {
             </p>
             {/* <GitHubIcon /> */}
             <Link to='/contact' className='flat-button5'>CONTACT ME HERE FOR MORE INFORMATION</Link>
-    </div>
-    <div className='space'>
+            <div className='space'>
     P
     </div>
+    </div>
+
         </div>
         <Loader type='pacman' />
         </>
