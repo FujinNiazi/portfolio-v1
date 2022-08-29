@@ -73,6 +73,11 @@
       text-align: center;
       margin-right: 10px;
       cursor: pointer;
+
+      &:hover {
+        background: #ffd700;
+        color: #333;
+    }
     }
 
 }

@@ -200,7 +200,7 @@
   float: left;
   animation: fadeIn 1s 2s backwards;
   white-space: nowrap;
-  z-index: 0;
+  z-index: 99;
 
   &:hover {
       background: #ffd700;
@@ -210,9 +210,14 @@
 
 }
 .space4 {
-  font-size: 50px;
+  font-size: 15px;
   color: #022c43;
     position: relative;
-    padding-top: 40px;
+
   
+}
+
+
+::-webkit-scrollbar-thumb {
+  animation-delay: 1s;
 }

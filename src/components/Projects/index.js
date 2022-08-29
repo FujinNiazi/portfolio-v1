@@ -48,8 +48,14 @@ const Projects = () => {
                 <br />
                 <br />
                 <div className='or'>OR</div>
-                <Link to='/cv' className='flat-button2'>CHECTOUT MY CV </Link>
+                <Link to='/cv' className='flat-button2'>CHECKOUT MY CV </Link>
             </div>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
             <div className='space4'>
             P
             </div>
