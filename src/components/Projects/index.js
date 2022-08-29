@@ -50,8 +50,12 @@ const Projects = () => {
                 <div className='or'>OR</div>
                 <Link to='/cv' className='flat-button2'>CHECTOUT MY CV </Link>
             </div>
+            <div className='space4'>
+            P
+            </div>
         </div>
         <Loader type='pacman' />
+
         </div>
         </>
     )
