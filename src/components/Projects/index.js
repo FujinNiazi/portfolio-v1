@@ -23,6 +23,7 @@ const Projects = () => {
 
     return (
         <>
+        <div className='projects-page'>
         <div className='container projects-page'>
             <h1 className='page-title'>
                 <AnimatedLetters
@@ -51,6 +52,7 @@ const Projects = () => {
             </div>
         </div>
         <Loader type='pacman' />
+        </div>
         </>
     )
 }
