@@ -14,10 +14,10 @@
         img {
             display: block;
             margin: 8px auto;
-            width: 32px;
+            width: 40px;
             height: auto;
 
-            &.sub-logo{
+            &.sublogo{
                 width: 50px;
             }
 
@@ -89,6 +89,24 @@
                 content: 'CONTACT';
             }
         }
+        a.projects-link{
+            &:after{
+                content: 'PROJECTS';
+            }
+        }
+
+        a.cv-link{
+            &:after{
+                content: 'CV';
+            }
+        }
+
+        a.experience-link{
+            &:after{
+                content: 'TIMELINE';
+            }
+        }
+
         a.active {
             svg {
                 color: #ffd700;

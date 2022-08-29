@@ -9,9 +9,11 @@ import Loader from 'react-loaders';
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
 
-    const nameArray = ['m','e','r']
+    const nameArray = ['m','e','r',',']
     const jobArray = [
-    
+    'a',
+     '',
+     '',
     'D',
     'e',
     's',
@@ -20,12 +22,13 @@ const Home = () => {
     'n',
     'e',
     'r',
+    '.'
     ]
 
     useEffect(() => {
-        return () => setTimeout(() => {
-            setLetterClass('text-animate-hover')
-        }, 4000)
+         setTimeout(() => {
+          return setLetterClass('text-animate-hover')
+        }, 3500)
     }, [])
 
     return (
@@ -49,6 +52,11 @@ const Home = () => {
                 </h1>
                 <h2>Researcher / Robotics Graduate / Mechanical Engineer</h2>
                 <Link to="/contact" className='flat-button'>CONTACT ME</Link>
+                <br />
+                <br />
+                <br />
+                <h3>OR</h3>
+                <Link to="/about" className='flat-button2'>LEARN MORE ABOUT ME</Link>
             </div>
             <Logo />
         </div>

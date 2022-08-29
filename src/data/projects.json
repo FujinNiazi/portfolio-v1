@@ -1,0 +1,14 @@
+[
+        {
+            "cover": "../assets/images/logo-u.png",
+            "title": "Reaseacher at ASAN Hospital",
+            "description": "Bistability, Continuum Robots, 3D Printing, Fusion 360",
+            "url": "http://google.com"
+        },
+        {
+            "cover": "/public/logo512.png",
+            "title": "Reaseacher at ASAN Hospital",
+            "description": "Bistability, Continuum Robots, 3D Printing, Fusion 360",
+            "url": "http://google.com"   }
+
+]

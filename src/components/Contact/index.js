@@ -15,8 +15,8 @@ const Contact = () => {
     const form = useRef ()
 
     useEffect(() => {
-        return () => setTimeout(() => {
-            setLetterClass('text-animate-hover')
+         setTimeout(() => {
+           return setLetterClass('text-animate-hover')
         }, 3000)
     }, [])
 
@@ -50,9 +50,9 @@ const Contact = () => {
                       idx={15}
                     />
                 </h1>
-                <p>
-                    Contact Me
-                </p>
+                <div className='contactus'>
+                    If you need any more information or you need to contact me please use the form below. I'm always looking for oppurtunies to do fun and interesting things to do, so if you want to collaborate or if you have a position that needs filling, hit me up!
+                </div>
                 <div className='contact-form'>
                 <form ref={form} onSubmit={sendEmail}>
               <ul>
@@ -104,7 +104,7 @@ const Contact = () => {
             <MapContainer center={[37.5229, 127.0909]} zoom={13}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
               <Marker position={[37.5249753680482, 127.11499214172365]} icon={new Icon({iconUrl: markerIconPng, iconSize: [25, 41], iconAnchor: [12, 41]})}>
-               <Popup>I work here, come over for a cup of coffee :)</Popup>
+               <Popup>I work here. Come if you want to grab a cup of coffee or lunch together :)</Popup>
             </Marker>
           </MapContainer>
             </div>

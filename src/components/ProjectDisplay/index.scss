@@ -1,0 +1,58 @@
+.project {
+    width: 100%;
+    height: calc(100vh - 100px);
+    display: flex;
+    
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .project h1 {
+    margin-top: 50px;
+    color: #fff;
+    font-size: 40px;
+    margin-bottom: 50px;
+  }
+  .project img {
+  
+    width: 1000px;
+    border-radius: 10px;
+  }
+  
+  .project p {
+    font-size: 40px;
+    color: #fff;
+  }
+  
+  .project svg {
+    font-size: 60px;
+    color: #3e497a;
+  }
+  
+
+  .flat-button3{
+    color: #ffd700;
+    font-size: 13px;
+    font-weight: 400;
+    letter-spacing: 4px;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 10px 18px;
+    border: 1px solid #ffd700;
+    margin-bottom: 2px;
+    float: left;
+    white-space: nowrap;
+    align-items: left;
+  
+    &:hover {
+        background: #ffd700;
+        color: #333;
+    }
+  }
+
+  .space2 {
+    font-size: 50px;
+    position: relative;
+    margin-bottom: 100px;
+    color: #022c43;
+}

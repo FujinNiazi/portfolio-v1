@@ -36,3 +36,24 @@ textarea{
   animation: fadeOut 1s 1s;
   animation-fill-mode: forwards;
 }
+
+::-webkit-scrollbar {
+  width: 2em;
+}
+
+::-webkit-scrollbar-track {
+  background: #022c43;
+  border-radius: 100vw;
+  margin-block: 0.5em;
+}
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient( #ffd700, #aa8f00);
+  border: 0.25em solid #022c43;
+  border-radius: 100vw;
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+  background: #fff100;
+}
