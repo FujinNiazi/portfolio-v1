@@ -1,5 +1,5 @@
 import './App.scss';
-import { Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route, Router } from 'react-router-dom';
 import Layout from './components/Layout';
 import Home from './components/Home'
 import About from './components/About';
@@ -8,7 +8,11 @@ import Projects from './components/Projects';
 import CV from './components/CV';
 import ProjectDisplay from "./components/ProjectDisplay";
 import Experience from "./components/Experience";
+
 import {Helmet} from "react-helmet";
+
+
+
 
 function App() {
   return (

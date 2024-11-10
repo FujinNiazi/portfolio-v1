@@ -8,6 +8,8 @@ import Dload from '../../assets/cv/Resume.pdf'
 import { Link } from 'react-router-dom';
 
 const CV = () => {
+
+    
     
     const [letterClass, setLetterClass] = useState('text-animate')
     
