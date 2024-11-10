@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c8f4ba40.css",
-    "main.js": "/portfolio/static/js/main.eacdd160.js",
-    "static/js/787.1cc6a694.chunk.js": "/portfolio/static/js/787.1cc6a694.chunk.js",
-    "static/media/asan.png": "/portfolio/static/media/asan.1a9d899445ff9dfbc45f.png",
-    "static/media/nust.png": "/portfolio/static/media/nust.6f618df3f00d7c1143b3.png",
-    "static/media/kaist.png": "/portfolio/static/media/kaist.05adee758157b35fa7e8.png",
-    "static/media/Portfolio.pdf": "/portfolio/static/media/Portfolio.4a3c39b0ca5b0f23f969.pdf",
-    "static/media/Resume.png": "/portfolio/static/media/Resume.5e34c3910ee13b9e3839.png",
-    "static/media/Resume.pdf": "/portfolio/static/media/Resume.eb9c225d0aff1d7aac84.pdf",
-    "static/media/logo-u.png": "/portfolio/static/media/logo-u.be710d4592fc629fec5c.png",
-    "static/media/helvetica-neu.ttf": "/portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo-sub.png": "/portfolio/static/media/logo-sub.2b88b02366115a78d2f1.png",
-    "static/media/3dprinting.png": "/portfolio/static/media/3dprinting.f5a3f636e27b384baf76.png",
-    "static/media/LaBelleAurore.woff2": "/portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/solidworks.png": "/portfolio/static/media/solidworks.24a9f01e2d5935a11a90.png",
-    "static/media/fusion360.png": "/portfolio/static/media/fusion360.344fc72b342a45ced747.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/portfolio/index.html",
-    "main.c8f4ba40.css.map": "/portfolio/static/css/main.c8f4ba40.css.map",
-    "main.eacdd160.js.map": "/portfolio/static/js/main.eacdd160.js.map",
-    "787.1cc6a694.chunk.js.map": "/portfolio/static/js/787.1cc6a694.chunk.js.map"
+    "main.css": "/portfolio-v1/static/css/main.3dc03a51.css",
+    "main.js": "/portfolio-v1/static/js/main.e8b818e3.js",
+    "static/js/787.1cc6a694.chunk.js": "/portfolio-v1/static/js/787.1cc6a694.chunk.js",
+    "static/media/asan.png": "/portfolio-v1/static/media/asan.1a9d899445ff9dfbc45f.png",
+    "static/media/nust.png": "/portfolio-v1/static/media/nust.6f618df3f00d7c1143b3.png",
+    "static/media/kaist.png": "/portfolio-v1/static/media/kaist.05adee758157b35fa7e8.png",
+    "static/media/Portfolio.pdf": "/portfolio-v1/static/media/Portfolio.4a3c39b0ca5b0f23f969.pdf",
+    "static/media/Resume.png": "/portfolio-v1/static/media/Resume.5e34c3910ee13b9e3839.png",
+    "static/media/Resume.pdf": "/portfolio-v1/static/media/Resume.eb9c225d0aff1d7aac84.pdf",
+    "static/media/logo-u.png": "/portfolio-v1/static/media/logo-u.be710d4592fc629fec5c.png",
+    "static/media/helvetica-neu.ttf": "/portfolio-v1/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo-sub.png": "/portfolio-v1/static/media/logo-sub.2b88b02366115a78d2f1.png",
+    "static/media/3dprinting.png": "/portfolio-v1/static/media/3dprinting.f5a3f636e27b384baf76.png",
+    "static/media/LaBelleAurore.woff2": "/portfolio-v1/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/solidworks.png": "/portfolio-v1/static/media/solidworks.24a9f01e2d5935a11a90.png",
+    "static/media/fusion360.png": "/portfolio-v1/static/media/fusion360.344fc72b342a45ced747.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/portfolio-v1/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/portfolio-v1/index.html",
+    "main.3dc03a51.css.map": "/portfolio-v1/static/css/main.3dc03a51.css.map",
+    "main.e8b818e3.js.map": "/portfolio-v1/static/js/main.e8b818e3.js.map",
+    "787.1cc6a694.chunk.js.map": "/portfolio-v1/static/js/787.1cc6a694.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8f4ba40.css",
-    "static/js/main.eacdd160.js"
+    "static/css/main.3dc03a51.css",
+    "static/js/main.e8b818e3.js"
   ]
 }
