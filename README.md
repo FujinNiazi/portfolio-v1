@@ -2,9 +2,10 @@
 
 This is a custom portfolio website I built to display my skills and experience. And my first dive into web development.
 
-Its built using a **react app** with **Sass** for stlying.
+Its built using a **react app** with **Sass** for stlying. You can access it [here](https://fujinniazi.github.io/portfolio-v1/).
 
-As I was using this as an oppurtunity to learn and gaining inspiration from other portfolios I tried to integrate different features. Some examples of which are
+As I was using this as an oppurtunity to learn and gaining inspiration from other portfolios I tried to integrate different features. <br>
+Some examples of which are:
 
  ## Animations
 | Static                            | Dynamic                          |
